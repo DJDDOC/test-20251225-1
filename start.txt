@@ -1,8 +1,10 @@
+login 1
+login 2
 master 1
 -
 L2
 -
-R3
+LOGIN R3
 -
 4
 -
